@@ -1,4 +1,4 @@
-# SA REST API设计原则
+# REST API设计原则
 
 - 协议 & 数据返回格式---- API 与用户的通信协议: Https & JSON
 
