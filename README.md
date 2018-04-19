@@ -9,7 +9,7 @@
   - **不要大写**
   - Root Endpoint ---- https:{hostname}:{port}/api/{resources}/{id?}
 
-- Http动词 & 返回结果(**符合Camel Case规则,即首字母小写,设计返回值的时候Must设计成Limitation的值,例如String长度设置成8000,且针对每个API添加备注**)
+- Http动词 & 返回结果
   - 常用动词
     - GET：从服务器取出资源（一项或多项）
       - /collection：返回资源对象的列表（数组）
